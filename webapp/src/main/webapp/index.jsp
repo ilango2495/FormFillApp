@@ -20,6 +20,11 @@
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
+
+    <label for="Aadhaar number"><b>Aadhaar number</b></label>
+    <input type="number" placeholder="Enter number" name="Aadhaar number" id="Aadhaar number" required>
+    <br>
+
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
