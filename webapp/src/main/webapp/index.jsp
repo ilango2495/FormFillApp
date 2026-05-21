@@ -25,6 +25,10 @@
     <input type="number" placeholder="Enter number" name="Aadhaar number" id="Aadhaar number" required>
     <br>
 
+    <label for="name"><b>Father Name</b></label>
+    <input type="text" placeholder="Enter Father name" name="Father name" id="Father name" required>
+    <br>
+
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
